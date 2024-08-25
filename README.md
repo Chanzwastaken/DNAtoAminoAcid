@@ -53,14 +53,14 @@ The process includes:
 
 ### Input:
 ```bash
-Enter DNA sequence: GGATGCCAATG
+Enter DNA sequence: TCGGTGAATCTGTTTGAT
 ```
 
 ### Output:
 ```bash
-Complementary DNA strand: CCTACGGTTAC
-RNA sequence: CCUACGGUUAC
-Amino Acid sequence: 
+Complementary DNA strand: AGCCACTTAGACAAACTA
+RNA sequence: AGCCACUUAGACAAACUA
+Amino Acid sequence: SHLDKL
 ```
 
 (Note: The Amino Acid sequence will vary depending on your codon table implementation.)
