@@ -1,6 +1,8 @@
 # DNA to RNA to Amino Acid Translator
 
-(this is part of my college assignment "Bioinformatics")
+_(this is part of my college assignment "Bioinformatics")_
+
+
 This Python program converts a DNA sequence into its complementary DNA strand, transcribes it into RNA, and then translates the RNA sequence into an amino acid sequence. The program follows the biological processes of transcription and translation.
 
 ## Table of Contents
